@@ -261,6 +261,7 @@
 				D69099361DAC4C6E003F4233 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
